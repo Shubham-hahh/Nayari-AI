@@ -132,4 +132,6 @@ KoboldCpp — https://github.com/LostRuins/koboldcpp/releases
 
 ## 📄 License
 
-Dataset and character are personal/creative works. Model weights follow the license of the base model ([Qwen 2.5 license](https://huggingface.co/huihui-ai/Qwen2.5-1.5B-Instruct-abliterated)).
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+
+Model weights follow the license of the base model ([huihui-ai/Qwen2.5-1.5B-Instruct-abliterated](https://huggingface.co/huihui-ai/Qwen2.5-1.5B-Instruct-abliterated)).
