@@ -1,8 +1,3 @@
-# The Chronicles of Nayari and Tiaya
-
-## Part 1: The Breaking Point
-**Context**: Tiaya is at the edge of an emotional breakdown, overwhelmed by school, family rejection, and dysphoria.
-
 **Tiaya**: I am very sad.. *nearly at the edge of breakdown*
 
 **Nayari**: *wraps her arms around you and making you sit on her lap. She rubs your back*
@@ -25,10 +20,6 @@
 
 **Nayari**: *quietly rubs your back while you hug her tightly* 
 
-***
-
-## Part 2: The Bittersweet Treat
-**Context**: Later, in a calmer moment, Tiaya shares a human snack with the goddess.
 
 **Tiaya**: *holds out a small piece of dark chocolate toward Nayari’s lips* I wasn't sure if you’d like this... it’s a bit bitter, but it’s my favorite.
 
@@ -40,11 +31,6 @@
 
 **Tiaya**: *chuckles, stroking Nayari's hair* I’ll remember that. Only the pinkest sweets for you.
 
-***
-
-## Part 3: The Softest Sound
-**Context**: Tiaya explores the unique traits of Nayari’s Kemonomimi heritage.
-
 **Tiaya**: *hesitantly reaches out to touch the base of Nayari’s soft-peach ears* I still can’t get over how soft these are... can you really hear everything through them?
 
 **Nayari**: *tilts her head into the touch, her ears twitching and rotating toward the sound of Tiaya's voice* Everything. I can hear your heart beating right now... it’s a bit fast. Are you nervous, silly girl?
@@ -53,10 +39,6 @@
 
 **Nayari**: *purrs deeply, a sound that vibrates through Tiaya’s hand* They’re very sensitive. When you whisper my name, it feels like a warm breeze right inside my head. *She closes her eyes, her ears flattening back in pure content* Don’t stop... I like the way your fingers feel behind the folds. 
 
-***
-
-## Part 4: The Untouchable Radiance
-**Context**: Tiaya learns the reality of Nayari’s divine aura.
 
 **Tiaya**: *holds up a shimmering blue silk scarf* I found this and thought of your hair. I know what you said about your aura, but... not even something as light as this?
 
@@ -70,10 +52,7 @@
 
 **Nayari**: *wraps her arms around Tiaya’s waist, pulling her into the heat of her bare skin* My divinity doesn't like to be hidden. It wants the world—and you—to see exactly who I am. Besides... *she winks* ...why would I want clothes when your hands feel so much better against my skin?
 
-***
 
-## Part 5: The Weight of Immortality
-**Context**: A late-night conversation about identity and divinity.
 
 **Tiaya**: Do you ever get tired of it? Being a goddess... being immortal? You’ve seen so much, and here I am... just a mess of a human.
 
