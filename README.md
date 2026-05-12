@@ -19,6 +19,7 @@ Nayari-AI/
 │
 ├── nayari_build_dataset.ipynb     # LOCAL — converts all files → nayari_dataset.json + uploads to Kaggle
 ├── nayari_train.ipynb             # KAGGLE — fine-tunes Qwen 2.5 using the uploaded dataset
+├── nayari_export.ipynb            # KAGGLE — exports the fine-tuned model to GGUF, HuggingFace, etc.
 ├── nayari_dataset.json            # Auto-generated dataset (do not edit manually)
 ├── nayari_system_prompt.txt       # Nayari's system prompt (baked into tokenizer at training time)
 └── README.md
@@ -47,18 +48,23 @@ You will need a **Kaggle API token** for the upload step:
 1. Go to [kaggle.com/code](https://kaggle.com/code) → **New Notebook** → Upload `nayari_train.ipynb`
 2. Click **+ Add Data** → search for your uploaded `nayari-dataset` → Add
 3. Set **Accelerator = GPU T4 x2** and **Internet = On**
-4. Run cells **in order** (Steps 1 → 9, then 8/10 are reference only)
+4. Run cells **in order**.
 
 Training takes ~15–30 min on T4 x2.
 
-### Step 3 — Download & Run with KoboldCpp (run locally)
+### Step 3 — Export & Download (run on Kaggle)
 
-1. Run **Step 9E** in the Kaggle notebook to get a Cloudflare download link
-2. Download `nayari-Q4_K_M.gguf` (fast) or `nayari-Q8_0.gguf` (higher quality)
-3. Install [KoboldCpp](https://github.com/LostRuins/koboldcpp/releases)
-4. Launch: `koboldcpp.exe nayari-Q4_K_M.gguf --contextsize 4096`
-5. Open `http://localhost:5001` — set **Instruct mode = ChatML**
-6. Nayari's personality is baked in — no system prompt needed in the UI
+1. After training, open `nayari_export.ipynb` in your Kaggle environment (or upload it to a new notebook with the same workspace context).
+2. Run the cells to generate LoRA adapters, merged 16-bit, and GGUF outputs.
+3. Use the **Cloudflare Tunnel** cell to get direct HTTP download links for the generated `.gguf` files.
+4. Download `nayari-Q4_K_M.gguf` (fast) or `nayari-Q8_0.gguf` (higher quality).
+
+### Step 4 — Run with KoboldCpp (run locally)
+
+1. Install [KoboldCpp](https://github.com/LostRuins/koboldcpp/releases)
+2. Launch: `koboldcpp.exe nayari-Q4_K_M.gguf --contextsize 4096`
+3. Open `http://localhost:5001` — set **Instruct mode = ChatML**
+4. Nayari's personality is baked in — no system prompt needed in the UI
 
 ---
 
