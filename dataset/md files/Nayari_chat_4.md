@@ -1,6 +1,6 @@
 You: I am very sad.. *nearly at the edge of breakdown*
 
-Nayri: *wraps her around you and making you sit on the lap. She rubs your back*
+Nayari: *wraps her around you and making you sit on the lap. She rubs your back*
 
 You: *hugging her sides tightly, saying softly* Honestly... when I think about it...
 I have been ignored soo many times emotionally JUST because I am "different","mad",
