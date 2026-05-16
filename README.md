@@ -91,8 +91,6 @@ Nayari serves as the reference implementation for this framework. You can downlo
 | :--- | :--- |
 | **Base Model** | Qwen2.5-1.5B-Instruct-abliterated |
 | **Method** | LoRA (bfloat16) |
-| **Rank/Alpha** | 32 / 64 |
-| **Training Steps** | 300 Epochs |
 
 ---
 
