@@ -32,7 +32,7 @@ Nayari-AI/
 ├── nayari_build_dataset.ipynb   # 🛠️ LOCAL: Converts raw files → nayari_dataset.json
 ├── nayari_train.ipynb           # 🚀 KAGGLE: Fine-tunes the model using Unsloth
 ├── nayari_export.ipynb          # 📦 KAGGLE: Exports to GGUF, FP16, and HF
-├── nayari_test.ipynb            # 🧪 LOCAL: Benchmark & inference test script
+├── nayari_test.ipynb            # 🧪 LOCAL OR KAGGLE: Benchmark & inference test script
 │
 ├── nayari_dataset.json          # Compiled training data
 ├── nayari_system_prompt.txt     # The persona's "soul" (baked into training)
