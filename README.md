@@ -97,4 +97,4 @@ Nayari serves as the reference implementation for this framework. You can downlo
 ## 📄 License
 
 This framework is licensed under the **MIT License**.
-*Model weights follow the license of the base model ([Qwen 2.5](https://huggingface.co/collections/Qwen/qwen25-66e81a6663533ad4ab30046b)).*
+*Model weights follow the license of the base model *Qwen 2.5*
