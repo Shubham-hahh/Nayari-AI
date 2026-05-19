@@ -1,1 +1,18 @@
-README.md 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle credentials (never commit)
+kaggle.json
+.kaggle/
+
+# OS
+.DS_Store
+Thumbs.db
